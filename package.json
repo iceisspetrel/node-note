@@ -1,0 +1,12 @@
+{
+  "name": "node-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "node Hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
